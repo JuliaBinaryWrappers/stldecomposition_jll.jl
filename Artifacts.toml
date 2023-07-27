@@ -1,0 +1,459 @@
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "9daba734bc1af076ff0fadf1a8c658a06c0262bc"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[stldecomposition.download]]
+    sha256 = "d789356b872bf5668397bb644b5a4ccf16698c375e85ab83557f179a33d1e7a8"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "29b48c71b61436a4e6e0699a1c4f6adb6ea628ff"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "5fcdd75526b31a25d229fb601e72c5c5e6065933c4fe60a74ad0a1f227e9bdc4"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "0fc98f89cb68179f460fb317822154dd0331936b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "13f28dcd7ce153fb42968a8c345c8e9c456143de1770d0e371fbbd46d2069913"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "3113175e7df1eb76259d2a772518fc2c66e39b3c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "c82f492538213805a579f7fde37606a499a92fbd19e00fba876c700ea0b04de5"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "e4424944c788ccba357b675abd500830c1ce1a54"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "cb942224077bd0bb4ebb533314b7a685887a13a4223f8b932ff20f54add131b6"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "2362a7a93c31e322694a4bfe9500293062bbb485"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "76ce76f0a160b00cf96d4de483c0809c087b074b058e4a42bbe44dc76e50f2b4"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "aarch64"
+git-tree-sha1 = "da0f0315a1f885c1b52cff57e98184eebbe1ecce"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "6b65976942862592ad5e6064e7bf1c780b7c4d3791af5942c635ac97f2702d08"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f0b53e576c0d2d0d9f022e21a0698697b436f4e6"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "1470c47f43bbc483d11594de79d5396e9b36108b613e4a94e619a8dbeeb9516a"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b062753bb161b219b7f24dddb279e078ee843db8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "d076af3c3f91478308a37da070b6bf940d2449f28d403bc83464be2746340bfb"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "70c3033f27950f3d0fc5456075c6645cee14f354"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "47bc14bc036020d848b20270bc402ab2b7924175ffff9f6f31a74f7242e5322e"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7e973f7cada69f4836b3a8c29669b86d82485670"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "9d4c10ed47a46198ad8fad45be6267eb0247b0dc8490fba1aa01232a92babccb"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e9adb6e3d9b5d11dab03dca365e81ee42b5d1f9f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "5a0e4b367fdd89ed28dc42b06d22d602f1771a64a1744a6d9a34f14355baf7b6"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7bab97e3bce730d54d85fd346aab087fa8be1d5f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "24e07bff6d4e9cd9a3950ad5595c7e195b37d40538223078e019f5f6d44ea1f5"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "77eb105a48dcb9c914cdc141aa6d2b385cf311b5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "6893cac38b6e14c800a44baabfa7d0e88def249c630b54db62e68f3d93acfa25"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ec24c3a4607d4fbfe502083eebaa7073e984ca7f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "16be228d7b291ecfb82263fadcf8bb35b0b13dc47255f1ac7a269c7e08b982f5"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e266a20d4ffb11c81f4f99b368fcc3d6800ab74a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "d137a5c392b4e6638a0d014f58233106e4b5b9d04d4fda4bcf10c7a49abf297b"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6e9c9f27961a7e2930f0c4f0c60882fa6392341b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "bc44c93dd1e0fe58741126b681fc98e4c613650b0665aad320a64fdae96a8b87"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "93b4064fdc5026437a726c90550ec6114607eee1"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "04c4bd59f667a88c62860019bd33039d838d079cf9e3fbdc076d40d130aeff30"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c6edb3f1ec04648d5a9393fe2fd39bbb61e240dc"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "5972641e3cbef977fe6518895f19899734776e292648b72c38e7a1a58c4efadd"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "69332ffedc3899f7c6253ff50f17147972073376"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "dc1b9fa8b7035002a1836b4b777d37c4e0ae775433886650bc8d230f3400146c"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "d8b70e0296dc33105acd3b1b0b042a7df0f39998"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "0ab6e9b41a0613daa5fa6ad24a02f7fe75e36cb5c7afa6714508e1ba1492fd42"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "a083a0b6cbc1ed3077dbf5d93548f793159e5a3a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "41862a224520b2a7c99049de480d44eca61da9e4a5f62aa8c612d7e4af2bd7e2"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "6c834cb2ac5642c0dc1b35fc98d5d8c54ae81ec8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "8a6ef2062d160dfd4cb669bbb6e1aae7f53da04d55a4faea09c470ffce4bd122"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "4efbf7deac2c8421108a12d4cdbdfc0ca010e479"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "d3ef22ec72a80616d2d41132cf54d04cd41f6ddf23c488c87bf58f7d1d73a451"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "918646608bc86e82f0e5032b68ef159969edbc20"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "1fcfd939e2bbd5fdce066be8c980a40d0294127253e2f1395a14cb85b473aa32"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "6ebd5a3ae3e75de68a050222e8bcdeced0a33b79"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "abaf61c1e17b6ecfaa958f0e6c34fbbd23a430e0bb4a828bc3e2a6534bcbb642"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "9c704832eceee0d4a226ba3163d9163eea2ca3a2"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "442e285affb36bd0bc811a0232d72265d367b6a383e63af4b565e09044ee07b7"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "i686"
+git-tree-sha1 = "16c26557ae3fd696ee0bd98ee62417b8a2d97f75"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "ca8f295f6d6c9aad43b2d02dad837796168aacf8adbf26a892cf25ee7c669cad"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "powerpc64le"
+git-tree-sha1 = "a449c9abadbd8a77504ca588cf81dadbdc444cc2"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "b020654498dc9fca73ab038f0dffd16a1bf3a5da198b72c5e9afa1dd0c0e2736"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "powerpc64le"
+git-tree-sha1 = "4ea965992e4daed619b18a7085926e9b6a0f3a87"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "152c4ad6d995ad04bbd96f95a3631dab75cd2165a00c85ca2aa5501ecc555270"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "powerpc64le"
+git-tree-sha1 = "153b60435fad921952bba65dd4df7262dc26cb84"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "79e8de754781ce213fdaa8a43397e08a284dfb7ac6bd1903fc70d9d69fda4bbb"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "3f736e1279cfccc1d8a6380b9276ff276b3799d8"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[stldecomposition.download]]
+    sha256 = "542b3eb556072cea54728e8a2dc86141f541706f1e6f2dc1f449548b6b891733"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "a4b294d7421455e1cd69f6c304a9947a62f676d3"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[stldecomposition.download]]
+    sha256 = "47ab1d5c16b74a32225aa905f83d904bf51f6bb23c15106f6e5f7adfff55ea46"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "d60d2bc356530260eb4b2100ae3c31595f54ab3d"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[stldecomposition.download]]
+    sha256 = "fdb9a91f42bba6021c173afb32641a3a0546307fedd479a9edc0445160b4bd6b"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "599062eb64651c24825f61e9da503d674fd201e4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "066275461d46009455a01f279237d30c81655ede57b52f2c99aa6258015c2587"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "85ff3939c05da06fb42798f2934de8ebf3bbbd86"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "f14ae15e7105616fa51d548e59f544af79ca71efcc86413d4a1a24a89b2b1f7d"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "28a8b44f2b818fa5aaaf12155b26164c3ba640aa"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "16d1cdfb6ac316fbd0e194de2fd14462e85ec5e941de60abab543cfa8409e7e1"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "7a8d598fc588ede7890c4486ce81ea4ee1634157"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "974d5eb8bbc507bb3645d6237fe4a789d32773f19b1f57116ee20596696aef3b"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "c0f862b2e489df92f496c65e633a34038eec6b82"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "9ba78ec82f4b8e14c132e0c7468d7b16ee376127c12a9c0af3dce5c2a4815fb3"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "9a10115645f7fb29af24c1ff6e6f18cca51647ac"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "2c11ca38ab328c2f5322aee956fdba0c5df19f753d8c8cba984735a42a0c35f7"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "e9be1209eecf963eb9ae2ffe62a7a3a18395c2e8"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[stldecomposition.download]]
+    sha256 = "134e851efea51675eda7cb81f7956982deadcf296c1f26ccecc438b647849553"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "ea01283430e43c6e42e8303e735687d3f26071d6"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[stldecomposition.download]]
+    sha256 = "a6c790c27dc0a93bbe47a34b08b1744ace17c7ea23f1d3a93ba22bc970453bee"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "1508631eccab2e743bfe156d570cbd8dadeb538c"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[stldecomposition.download]]
+    sha256 = "af34350122055e278de9e5af47b195792698c352bc3ff154140e97796a73209c"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "9ba70aa7e57e358f382b4386a63be0bb1bc2eb90"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "06b58ce9eb117deadee6c2007da9ea9e037fa5b218c0173e6b4bfaec01a6f5ae"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "0e7529340e61743bf75375bd20d8485fa0dd6cee"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "51d2e8827e378fd269f100f7ae6598338e547a36af949eb32f0b85733a8d08b0"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "38790b7ede61b922aaeeea8af163902a520e4496"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "e4e031e7b41232215713b896bb66e73343549aa3a5e356c71ac6dc53399866cf"
+    url = "https://github.com/JuliaBinaryWrappers/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
